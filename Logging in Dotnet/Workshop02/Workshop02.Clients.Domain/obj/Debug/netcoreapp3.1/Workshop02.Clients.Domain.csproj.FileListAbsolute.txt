@@ -1,0 +1,9 @@
+G:\Src\Vs\Workshop02\Workshop02.Clients.Domain\bin\Debug\netcoreapp3.1\Workshop02.Clients.Domain.deps.json
+G:\Src\Vs\Workshop02\Workshop02.Clients.Domain\bin\Debug\netcoreapp3.1\Workshop02.Clients.Domain.dll
+G:\Src\Vs\Workshop02\Workshop02.Clients.Domain\bin\Debug\netcoreapp3.1\Workshop02.Clients.Domain.pdb
+G:\Src\Vs\Workshop02\Workshop02.Clients.Domain\obj\Debug\netcoreapp3.1\Workshop02.Clients.Domain.csprojAssemblyReference.cache
+G:\Src\Vs\Workshop02\Workshop02.Clients.Domain\obj\Debug\netcoreapp3.1\Workshop02.Clients.Domain.AssemblyInfoInputs.cache
+G:\Src\Vs\Workshop02\Workshop02.Clients.Domain\obj\Debug\netcoreapp3.1\Workshop02.Clients.Domain.AssemblyInfo.cs
+G:\Src\Vs\Workshop02\Workshop02.Clients.Domain\obj\Debug\netcoreapp3.1\Workshop02.Clients.Domain.csproj.CoreCompileInputs.cache
+G:\Src\Vs\Workshop02\Workshop02.Clients.Domain\obj\Debug\netcoreapp3.1\Workshop02.Clients.Domain.dll
+G:\Src\Vs\Workshop02\Workshop02.Clients.Domain\obj\Debug\netcoreapp3.1\Workshop02.Clients.Domain.pdb

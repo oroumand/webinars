@@ -1,0 +1,12 @@
+G:\Src\Vs\Workshop02\Workshop02.Weather.Dal\bin\Debug\netcoreapp3.1\Workshop02.Weather.Domain.dll
+G:\Src\Vs\Workshop02\Workshop02.Weather.Dal\obj\Debug\netcoreapp3.1\Workshop02.Weather.Dal.csprojAssemblyReference.cache
+G:\Src\Vs\Workshop02\Workshop02.Weather.Dal\obj\Debug\netcoreapp3.1\Workshop02.Weather.Dal.AssemblyInfoInputs.cache
+G:\Src\Vs\Workshop02\Workshop02.Weather.Dal\obj\Debug\netcoreapp3.1\Workshop02.Weather.Dal.AssemblyInfo.cs
+G:\Src\Vs\Workshop02\Workshop02.Weather.Dal\bin\Debug\netcoreapp3.1\Workshop02.Weather.Dal.deps.json
+G:\Src\Vs\Workshop02\Workshop02.Weather.Dal\bin\Debug\netcoreapp3.1\Workshop02.Weather.Dal.dll
+G:\Src\Vs\Workshop02\Workshop02.Weather.Dal\bin\Debug\netcoreapp3.1\Workshop02.Weather.Dal.pdb
+G:\Src\Vs\Workshop02\Workshop02.Weather.Dal\bin\Debug\netcoreapp3.1\Workshop02.Weather.Domain.pdb
+G:\Src\Vs\Workshop02\Workshop02.Weather.Dal\obj\Debug\netcoreapp3.1\Workshop02.Weather.Dal.csproj.CoreCompileInputs.cache
+G:\Src\Vs\Workshop02\Workshop02.Weather.Dal\obj\Debug\netcoreapp3.1\Workshop02.Weather.Dal.csproj.CopyComplete
+G:\Src\Vs\Workshop02\Workshop02.Weather.Dal\obj\Debug\netcoreapp3.1\Workshop02.Weather.Dal.dll
+G:\Src\Vs\Workshop02\Workshop02.Weather.Dal\obj\Debug\netcoreapp3.1\Workshop02.Weather.Dal.pdb

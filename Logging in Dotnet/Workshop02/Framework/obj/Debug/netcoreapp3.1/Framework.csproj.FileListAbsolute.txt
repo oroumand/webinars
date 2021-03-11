@@ -1,0 +1,9 @@
+G:\Src\Vs\Workshop02\Framework\bin\Debug\netcoreapp3.1\Framework.deps.json
+G:\Src\Vs\Workshop02\Framework\bin\Debug\netcoreapp3.1\Framework.dll
+G:\Src\Vs\Workshop02\Framework\bin\Debug\netcoreapp3.1\Framework.pdb
+G:\Src\Vs\Workshop02\Framework\obj\Debug\netcoreapp3.1\Framework.csprojAssemblyReference.cache
+G:\Src\Vs\Workshop02\Framework\obj\Debug\netcoreapp3.1\Framework.AssemblyInfoInputs.cache
+G:\Src\Vs\Workshop02\Framework\obj\Debug\netcoreapp3.1\Framework.AssemblyInfo.cs
+G:\Src\Vs\Workshop02\Framework\obj\Debug\netcoreapp3.1\Framework.csproj.CoreCompileInputs.cache
+G:\Src\Vs\Workshop02\Framework\obj\Debug\netcoreapp3.1\Framework.dll
+G:\Src\Vs\Workshop02\Framework\obj\Debug\netcoreapp3.1\Framework.pdb

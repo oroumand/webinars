@@ -1,0 +1,295 @@
+{
+  "format": 1,
+  "restore": {
+    "G:\\Src\\Vs\\Workshop02\\Workshop02.Weather.Api\\Workshop02.Weather.Api.csproj": {}
+  },
+  "projects": {
+    "G:\\Src\\Vs\\Workshop02\\Framework\\Framework.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\Src\\Vs\\Workshop02\\Framework\\Framework.csproj",
+        "projectName": "Framework",
+        "projectPath": "G:\\Src\\Vs\\Workshop02\\Framework\\Framework.csproj",
+        "packagesPath": "C:\\Users\\Alireza\\.nuget\\packages\\",
+        "outputPath": "G:\\Src\\Vs\\Workshop02\\Framework\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Alireza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://baget.navoshgaran.com/v3/index.json": {},
+          "http://localhost:5000/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[4.0.0, )"
+            },
+            "Serilog.Sinks.Console": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Serilog.Sinks.Elasticsearch": {
+              "target": "Package",
+              "version": "[8.4.1, )"
+            },
+            "Serilog.Sinks.Seq": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\Src\\Vs\\Workshop02\\Workshop02.Weather.Api\\Workshop02.Weather.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\Src\\Vs\\Workshop02\\Workshop02.Weather.Api\\Workshop02.Weather.Api.csproj",
+        "projectName": "Workshop02.Weather.Api",
+        "projectPath": "G:\\Src\\Vs\\Workshop02\\Workshop02.Weather.Api\\Workshop02.Weather.Api.csproj",
+        "packagesPath": "C:\\Users\\Alireza\\.nuget\\packages\\",
+        "outputPath": "G:\\Src\\Vs\\Workshop02\\Workshop02.Weather.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Alireza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://baget.navoshgaran.com/v3/index.json": {},
+          "http://localhost:5000/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "G:\\Src\\Vs\\Workshop02\\Framework\\Framework.csproj": {
+                "projectPath": "G:\\Src\\Vs\\Workshop02\\Framework\\Framework.csproj"
+              },
+              "G:\\Src\\Vs\\Workshop02\\Workshop02.Weather.Dal\\Workshop02.Weather.Dal.csproj": {
+                "projectPath": "G:\\Src\\Vs\\Workshop02\\Workshop02.Weather.Dal\\Workshop02.Weather.Dal.csproj"
+              },
+              "G:\\Src\\Vs\\Workshop02\\Workshop02.Weather.Domain\\Workshop02.Weather.Domain.csproj": {
+                "projectPath": "G:\\Src\\Vs\\Workshop02\\Workshop02.Weather.Domain\\Workshop02.Weather.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Seq.Extensions.Logging": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[4.0.0, )"
+            },
+            "Serilog.Sinks.Console": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Serilog.Sinks.Seq": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\Src\\Vs\\Workshop02\\Workshop02.Weather.Dal\\Workshop02.Weather.Dal.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\Src\\Vs\\Workshop02\\Workshop02.Weather.Dal\\Workshop02.Weather.Dal.csproj",
+        "projectName": "Workshop02.Weather.Dal",
+        "projectPath": "G:\\Src\\Vs\\Workshop02\\Workshop02.Weather.Dal\\Workshop02.Weather.Dal.csproj",
+        "packagesPath": "C:\\Users\\Alireza\\.nuget\\packages\\",
+        "outputPath": "G:\\Src\\Vs\\Workshop02\\Workshop02.Weather.Dal\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Alireza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://baget.navoshgaran.com/v3/index.json": {},
+          "http://localhost:5000/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "G:\\Src\\Vs\\Workshop02\\Workshop02.Weather.Domain\\Workshop02.Weather.Domain.csproj": {
+                "projectPath": "G:\\Src\\Vs\\Workshop02\\Workshop02.Weather.Domain\\Workshop02.Weather.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\Src\\Vs\\Workshop02\\Workshop02.Weather.Domain\\Workshop02.Weather.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\Src\\Vs\\Workshop02\\Workshop02.Weather.Domain\\Workshop02.Weather.Domain.csproj",
+        "projectName": "Workshop02.Weather.Domain",
+        "projectPath": "G:\\Src\\Vs\\Workshop02\\Workshop02.Weather.Domain\\Workshop02.Weather.Domain.csproj",
+        "packagesPath": "C:\\Users\\Alireza\\.nuget\\packages\\",
+        "outputPath": "G:\\Src\\Vs\\Workshop02\\Workshop02.Weather.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Alireza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://baget.navoshgaran.com/v3/index.json": {},
+          "http://localhost:5000/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

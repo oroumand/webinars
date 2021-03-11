@@ -1,0 +1,20 @@
+﻿@model List<Workshop02.Clients.Domain.WeatherForecast>
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+    <table>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.CityName</td>
+                <td>@item.Summary</td>
+                <td>@item.TemperatureC</td>
+            </tr>
+
+        }
+    </table>
+</div>

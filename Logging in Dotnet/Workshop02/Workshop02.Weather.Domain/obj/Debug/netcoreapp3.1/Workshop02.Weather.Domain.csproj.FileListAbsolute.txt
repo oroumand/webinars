@@ -1,0 +1,9 @@
+G:\Src\Vs\Workshop02\Workshop02.Weather.Domain\bin\Debug\netcoreapp3.1\Workshop02.Weather.Domain.deps.json
+G:\Src\Vs\Workshop02\Workshop02.Weather.Domain\bin\Debug\netcoreapp3.1\Workshop02.Weather.Domain.dll
+G:\Src\Vs\Workshop02\Workshop02.Weather.Domain\bin\Debug\netcoreapp3.1\Workshop02.Weather.Domain.pdb
+G:\Src\Vs\Workshop02\Workshop02.Weather.Domain\obj\Debug\netcoreapp3.1\Workshop02.Weather.Domain.csprojAssemblyReference.cache
+G:\Src\Vs\Workshop02\Workshop02.Weather.Domain\obj\Debug\netcoreapp3.1\Workshop02.Weather.Domain.AssemblyInfoInputs.cache
+G:\Src\Vs\Workshop02\Workshop02.Weather.Domain\obj\Debug\netcoreapp3.1\Workshop02.Weather.Domain.AssemblyInfo.cs
+G:\Src\Vs\Workshop02\Workshop02.Weather.Domain\obj\Debug\netcoreapp3.1\Workshop02.Weather.Domain.csproj.CoreCompileInputs.cache
+G:\Src\Vs\Workshop02\Workshop02.Weather.Domain\obj\Debug\netcoreapp3.1\Workshop02.Weather.Domain.dll
+G:\Src\Vs\Workshop02\Workshop02.Weather.Domain\obj\Debug\netcoreapp3.1\Workshop02.Weather.Domain.pdb

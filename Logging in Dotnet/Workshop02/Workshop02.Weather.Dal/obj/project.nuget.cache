@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/DExgcCNgcFTq9ly+819YfUQQNFenfyGWzJAbbYi8Gi0mmXXC/y1dy04vOwbZxf7SW7KM4I0JC/I3CathWGejA==",
+  "success": true,
+  "projectFilePath": "G:\\Src\\Vs\\Workshop02\\Workshop02.Weather.Dal\\Workshop02.Weather.Dal.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alireza\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
